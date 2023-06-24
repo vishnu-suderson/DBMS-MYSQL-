@@ -1,3 +1,8 @@
 # DATABASE MANAGEMENT SYSTEM
 - MYSQL
+  - DDL
+  - DML
+  - TCl
+  - DQL
+  - DCL
   
